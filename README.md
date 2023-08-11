@@ -1,3 +1,8 @@
+# REACTJS - HTML - CSS - NODE
+## Projeto desenvolvido com framework REACTJS
+<img align="center" src="https://github.com/renildobsantos/LandingPage-travel/assets/79602519/d251190d-5078-40a2-b462-f7ea1eac97ee"/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
