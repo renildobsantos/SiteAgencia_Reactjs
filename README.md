@@ -1,7 +1,11 @@
 # REACTJS - HTML - CSS - NODE
 ## Projeto desenvolvido com framework REACTJS
-<img align="center" src="https://github.com/renildobsantos/LandingPage-travel/assets/79602519/d251190d-5078-40a2-b462-f7ea1eac97ee"/>
-
+## PAGINA HOME
+<img align="center" src="https://github.com/renildobsantos/Site_Reactjs/assets/79602519/ac54d711-c66d-4575-a2b3-679677fe6243"/>
+## PAGINA SOBRE
+<img align="center" src="https://github.com/renildobsantos/Site_Reactjs/assets/79602519/26ce1392-b81e-4e5e-b42b-dfc23d7cc236"/>
+## PAGINA CONTATO
+<img align="center" src="https://github.com/renildobsantos/Site_Reactjs/assets/79602519/a23c7696-c930-495f-8cbf-e9b29cdaa7bf"/>
 
 # Getting Started with Create React App
 
