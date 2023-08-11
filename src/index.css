@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #root {
+    background-image: url('https://cdn.pixabay.com/photo/2015/06/08/22/37/spotlight-802633_1280.jpg');
+    background-size: cover;
+    height: 100%;
+}

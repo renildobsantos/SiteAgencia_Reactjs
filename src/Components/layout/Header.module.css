@@ -1,0 +1,41 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0 60px;
+    border-bottom: 1px solid #fa5514;
+    height: 12vh;
+    
+}
+
+.ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.item a {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px; 
+    transition: .3s; 
+}
+
+.item a:hover {
+    color: #fa5514;
+}
+
+.logo span {
+    color: #fa5514;
+    font-size: 2.3rem;
+    font-weight: 800;
+}
+
+.logo p {
+    color: #fff;
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+
+}

@@ -1,0 +1,30 @@
+footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+
+.midia_social {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.midia_social svg {
+    font-size: 1.7rem;
+    margin: 0 1em;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.midia_social svg:hover {
+    color: black;
+}
+
+.rodape {
+    font-size: .8rem;
+}

@@ -1,0 +1,65 @@
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+.title span {
+    font-size: 5rem;
+    font-weight: 800;
+    color: #fa5514;
+}
+
+.title p {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.title h1 {
+    color: #fff;
+}
+
+.texto h1 {
+    color: black;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.texto h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fa5514;
+    text-shadow: 0 0 .5rem #fa5514 ;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+}
+
+.li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+.li a:hover {
+    color: #fa5514;
+}
+

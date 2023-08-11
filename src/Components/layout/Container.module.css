@@ -1,0 +1,9 @@
+.container {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    /* background-color: brown; */
+    min-height: 78%;
+}
